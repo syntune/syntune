@@ -1,4 +1,7 @@
-## Hi there 👋
+## hi
+
+<h1> this is just a template</h1>
+<h1> i'll make a better one once i have more projects</h1>
 
 <!--
 **syntune/syntune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
