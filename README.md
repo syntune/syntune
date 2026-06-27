@@ -1,6 +1,6 @@
-## hi 
-this is just a template
-i'll make a better one once i have more projects
+## hi there
+software engineering student interested in systems programming, reverse engineering, and CUDA.
+currently learning computer systems and building projects along the way.
 
 #### tools
 <img align = "left" alt = "Git" width = "30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"/>
