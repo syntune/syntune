@@ -1,6 +1,6 @@
 ## hi there
 <p> software engineering student interested in systems programming. </p>
-<p> currently learning computer systems while building projects and strengthening my fundamentals </p>
+<p> currently exploring computer systems through projects and strong fundamentals </p>
 
 #### tools i use
 <img align = "left" alt = "Git" width = "30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"/>
